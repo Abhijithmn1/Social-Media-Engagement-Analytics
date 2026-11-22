@@ -1,6 +1,5 @@
 Social Media Engagement Analytics (Module-End Assignment 5)
-A complete exploratory data analysis (EDA) and statistical modeling project built in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly to analyze engagement patterns across 5,000 social media posts.
-📋 Project OverviewDataset: social_media_engagement_5000.csv ($5,000$ rows $\times 19$ attributes)Deliverable: Social_Media_Engagement_Analytics.ipynb (Jupyter Notebook)Objective: Clean raw engagement metrics, engineer new analytical features, compute descriptive statistics, build 13 static and interactive visualizations, and summarize actionable content insights.
+A complete exploratory data analysis (EDA) and statistical modeling project built in Python using Pandas, NumPy, Matplotlib, Seaborn, and Plotly to analyze engagement patterns across 5,000 social media posts. Project OverviewDataset: social_media_engagement_5000.csv ($5,000$ rows $\times 19$ attributes)Deliverable: Social_Media_Engagement_Analytics.ipynb (Jupyter Notebook)Objective: Clean raw engagement metrics, engineer new analytical features, compute descriptive statistics, build 13 static and interactive visualizations, and summarize actionable content insights.
 
 🛠️ Step-by-Step Workflow
 
